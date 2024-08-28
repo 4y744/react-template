@@ -1,6 +1,6 @@
 # react-template [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/4y744/react-template/blob/main/LICENSE)
 
-Template for a React application, based on personal preference.
+Template for a React application, based on personal preference. Also includes some **very opinionated** design patters for consistency, readability and simplicity.
 
 ## Usage
 
@@ -40,7 +40,7 @@ File strucure is based on [Bulletproof React](https://github.com/alan2207/bullet
 
 - **src/services** - configuration files for services (e.g. Firebase, Algolia).
 
-- **src/types** - shared types.
+- **src/types** - shared types. Each type should have its unique file and could be grouped with other ones in a separate category directory. Type names must also start with a capital letter.
 
 - **src/utils** - reusable utility functions.
 
