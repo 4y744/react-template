@@ -1,4 +1,4 @@
-# react-template
+# react-template [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/4y744/react-template/blob/main/LICENSE)
 
 Template for a React application, based on personal preference.
 
