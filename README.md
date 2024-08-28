@@ -40,4 +40,4 @@ File strucure is based on [Bulletproof React](https://github.com/alan2207/bullet
 
 - **src/services** - configuration files for services (e.g. Firebase, Algolia).
 
-- **src/utls** - reusable utility functions.
+- **src/utils** - reusable utility functions.
