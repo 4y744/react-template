@@ -1,6 +1,6 @@
 # react-template
 
-Template for a React app, based on personal preference.
+Template for a React app, based on personal preference. To use it, either download the code directly or `git clone` it. Then run `npm install` to install the packages. To boot up a test server run `vite` (or `vite --host` to expose).
 
 ## File structure
 
